@@ -25,6 +25,7 @@
     "@repo/eslint-config": "*",
     "@repo/tailwind-config": "*",
     "@repo/typescript-config": "*",
+    "@repo/business-logic": "*",
     "@types/react": "^19.0.7",
     "autoprefixer": "^10.4.20",
     "eslint": "^9.20.0",
