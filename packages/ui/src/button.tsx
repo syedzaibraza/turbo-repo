@@ -13,8 +13,9 @@ export const Button = ({
   return (
     <button
       type={type}
+      disabled={true}
       onClick={onClick}
-      className="ui-w-full ui-bg-red-600 ui-text-white ui-font-semibold ui-text-sm ui-rounded-xl ui-py-2.5"
+      className={`w-full bg-primary text-white font-semibold text-sm rounded-xl py-2.5  disabled:opacity-50 disabled:cursor-not-allowed`}
       {...props}
     >
       {label}

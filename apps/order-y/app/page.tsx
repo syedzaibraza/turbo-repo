@@ -2,7 +2,7 @@ import { Card } from "@repo/ui/card";
 
 const LINKS = [
   {
-    title: "Order X",
+    title: "Order Y",
     href: "https://turbo.build/repo/docs",
     description: "Find in-depth information about Turborepo features and API.",
   },
