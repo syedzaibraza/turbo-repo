@@ -9,7 +9,7 @@ const config: Pick<Config, "content" | "presets" | "theme"> = {
   theme: {
     extend: {
       colors: {
-        primary: "#06a449",
+        primary: "#f7921d",
       },
     },
   },
