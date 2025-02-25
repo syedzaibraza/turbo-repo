@@ -6,6 +6,9 @@ const config: Omit<Config, "content"> = {
       colors: {
         primary: "#06a449",
       },
+      screens: {
+        xs: "540px",
+      },
     },
   },
 };
